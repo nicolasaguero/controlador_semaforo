@@ -1,15 +1,11 @@
-# controlador_semaforo
+# Controlador de semaforos inteligente
 
-Controlador de semaforos con Arduino
-
-
-# Título del Proyecto
-
-_Acá va un párrafo que describa lo que es el proyecto_
+_En este repositorio se subira todo el desarrollo de semaforos para nuestra tesis.
+Se realiza comunicación serie con una Raspberry Pi que nos otorga el conteo Vehicular realizado con OpenCV y luego mediante una red MESH con LoRa se realiza una intercomunicacion de todos los semaforos, sincronizandolos y recopilando informacion para luego ser enviada a un lugar central en donde un operario podra tomar decisiones._
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_Se encuentran muchos archivos presentes, re estara modificando en el tiempo_
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
@@ -86,10 +82,10 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+_Esta tesis esta compuesta por:_
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Nicolas Aguero** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
+* **Matias Romero** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
